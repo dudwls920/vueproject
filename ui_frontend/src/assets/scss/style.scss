@@ -1,0 +1,22 @@
+/*================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.custom-header {
+  text-align: left;
+  color: white;
+  width: 30%;
+  min-width: 200px;
+  max-width: 450px;
+  box-shadow: 0 0 10px 1px rgb(255 140 32 / 70%) !important;
+  border-radius: 10px;
+  background-color: #ff8c20;
+  padding: 8px;
+}
+
+.header-shadow {
+  box-shadow: 0 0 10px 1px rgb(0 0 22 / 40%) !important;
+}
